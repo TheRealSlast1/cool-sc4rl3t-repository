@@ -1,0 +1,103 @@
+{
+  "name": "My Ultimate Repo",
+  "subtitle": "Geode & Essential Jailbreaks",
+  "description": "A collection of jailbreak tools and Geometry Dash mods.",
+  "iconURL": "https://geode-sdk.org",
+  "apps": [
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "hugeBlack",
+      "localizedDescription": "Run apps inside a guest container to bypass the 3-app sideloading limit.",
+      "iconURL": "https://githubusercontent.com",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "Geode (GD Mod Loader)",
+      "bundleIdentifier": "org.geode-sdk.launcher",
+      "developerName": "Geode Team",
+      "localizedDescription": "The mod loader for Geometry Dash (2.2+). Includes mod browser and FPS management.",
+      "iconURL": "https://geode-sdk.org",
+      "versions": [
+        {
+          "version": "1.8.0",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName": "opa334",
+      "localizedDescription": "Modern rootless jailbreak for iOS 15.0 - 16.6.1.",
+      "iconURL": "https://githubusercontent.com",
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "TrollStore Installer",
+      "bundleIdentifier": "com.opa334.TrollStore",
+      "developerName": "opa334",
+      "localizedDescription": "Permanently sign apps without revokes on supported versions.",
+      "iconURL": "https://githubusercontent.com",
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Pwn20wnd",
+      "localizedDescription": "Jailbreak tool for iOS 11.0 - 14.8.",
+      "iconURL": "https://unc0ver.dev",
+      "versions": [
+        {
+          "version": "8.0.2",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "Chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "Electra Team",
+      "localizedDescription": "Jailbreak for iOS 12.0 - 12.5.7.",
+      "iconURL": "https://chimera.sh",
+      "versions": [
+        {
+          "version": "1.6.5",
+          "downloadURL": "https://chimera.sh"
+        }
+      ]
+    },
+    {
+      "name": "Odyssey",
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "developerName": "Odyssey Team",
+      "localizedDescription": "Jailbreak for iOS 13.0 - 13.7.",
+      "iconURL": "https://theodyssey.dev",
+      "versions": [
+        {
+          "version": "1.4.2",
+          "downloadURL": "https://theodyssey.dev"
+        }
+      ]
+    }
+  ],
+  "META": {
+    "repoName": "My Ultimate Repo",
+    "repoIcon": "https://geode-sdk.org"
+  }
+}
