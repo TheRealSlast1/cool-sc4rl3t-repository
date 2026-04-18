@@ -1,0 +1,116 @@
+{
+  "name": "My Ultimate Repo",
+  "subtitle": "Essential Jailbreaks & Tools",
+  "description": "Custom collection for Geode, jailbreak tools, and file management.",
+  "iconURL": "https://geode-sdk.org",
+  "apps": [
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "hugeBlack",
+      "localizedDescription": "Run apps inside a guest container to bypass the 3-app sideloading limit.",
+      "iconURL": "https://githubusercontent.com",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "Geode (GD Mod Loader)",
+      "bundleIdentifier": "org.geode-sdk.launcher",
+      "developerName": "Geode Team",
+      "localizedDescription": "The mod loader for Geometry Dash (2.2+). Access mods, custom icons, and FPS boosts.",
+      "iconURL": "https://geode-sdk.org",
+      "versions": [
+        {
+          "version": "1.8.0",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName": "opa334",
+      "localizedDescription": "The standard rootless jailbreak for iOS 15.0 - 16.6.1.",
+      "iconURL": "https://githubusercontent.com",
+      "versions": [
+        {
+          "version": "2.2.2",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "TrollStore Installer",
+      "bundleIdentifier": "com.opa334.TrollStore",
+      "developerName": "opa334",
+      "localizedDescription": "Permanently sign apps without revokes using an exploit.",
+      "iconURL": "https://githubusercontent.com",
+      "versions": [
+        {
+          "version": "2.0.15",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "Filza File Manager",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "developerName": "TIGI Software",
+      "localizedDescription": "Powerful file explorer for iOS. Essential for managing app files and data.",
+      "iconURL": "https://tigisoftware.com",
+      "versions": [
+        {
+          "version": "4.0.1",
+          "downloadURL": "https://tigisoftware.com"
+        }
+      ]
+    },
+    {
+      "name": "iCleaner Pro",
+      "bundleIdentifier": "com.exile90.icleanerpro",
+      "developerName": "Ivaylo Hristov",
+      "localizedDescription": "Clean out junk files, temporary data, and free up storage space.",
+      "iconURL": "https://ib-soft.net",
+      "versions": [
+        {
+          "version": "7.10.0",
+          "downloadURL": "https://ib-soft.net"
+        }
+      ]
+    },
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Pwn20wnd",
+      "localizedDescription": "Legacy jailbreak for iOS 11.0 - 14.8.",
+      "iconURL": "https://unc0ver.dev",
+      "versions": [
+        {
+          "version": "8.0.2",
+          "downloadURL": "https://github.com"
+        }
+      ]
+    },
+    {
+      "name": "Chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "Electra Team",
+      "localizedDescription": "Jailbreak for iOS 12.0 - 12.5.7.",
+      "iconURL": "https://chimera.sh",
+      "versions": [
+        {
+          "version": "1.6.5",
+          "downloadURL": "https://chimera.sh"
+        }
+      ]
+    }
+  ],
+  "META": {
+    "repoName": "My Ultimate Repo",
+    "repoIcon": "https://geode-sdk.org"
+  }
+}
